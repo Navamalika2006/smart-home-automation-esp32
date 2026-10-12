@@ -54,8 +54,6 @@ The web dashboard shows:
 - ON / OFF controls for Tubelight and Fan
 - Real-time status indicators
 
-*(Add your dashboard screenshot here — e.g. `![dashboard](screenshots/dashboard.png)`)*
-
 ---
 
 ## 🧠 Skills Demonstrated
